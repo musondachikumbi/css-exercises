@@ -1,7 +1,4 @@
-.cl {
-background-color: #ffb6c1;
-font-family: Verdana, "Dejavu Sans", sans-serif;
-}
+
 #di{
 color:hsl(240, 100%, 50%);
 font-size: 36px;
@@ -14,8 +11,4 @@ font-size: 36px;
 #do{
 background-color:rgb(144, 238, 144);
 font-size: 24px;
-}
-.yo{
-background-color:#ffb6c1;
-font-family: verdana "dejavu sans", sans-serif; 
 }
